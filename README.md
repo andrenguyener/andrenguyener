@@ -8,4 +8,5 @@
 <br><br>
 <img src="kyubey.gif" height="40" />
 <br><br><br>
+<img src="polyblock-cube.gif"  width="100%"/>
 </div>
