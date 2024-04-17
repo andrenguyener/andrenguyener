@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="polyblock-cube.gif"  width="100%"/>
+    <img src="2MvE.gif"  width="100%"/>
 </div>
